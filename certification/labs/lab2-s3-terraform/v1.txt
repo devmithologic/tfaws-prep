@@ -1,0 +1,13 @@
+=== SALES REPORT Q4 2024 ===
+Date: 2026-01-27T04:53:34Z
+    
+Total Revenue: $1,500,000
+Units Sold: 15,000
+Top Product: Widget Pro
+    
+Notes: Initial version created by Terraform
+    
+This file demonstrates S3 versioning.
+Each time you update this file, a new version is created.
+If you "delete" this file, S3 creates a Delete Marker.
+You can recover the file by removing the Delete Marker.
